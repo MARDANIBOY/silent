@@ -1,1 +1,1 @@
-impor Eid
+import Eid
