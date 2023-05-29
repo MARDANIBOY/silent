@@ -1,7 +1,11 @@
 import time
-print("""[1;91m[>] Encoded By Klein
-[m[>] Github : XAIVER-69
-[1;91m[>] Encryption Type : Py3 Marshal[3.11]
+
+print("""[1;91m[>] JOIN THE WHATSAPP GROUP FORR MORE UPDATE
+
+[m[>] Github : MARDANIBOY
+
+[1;91m[>] ðŸ˜Šâœ…LOVE U ALL FRIEND AND BROTHER
+
 [m-----------------------------------------""")
 time.sleep(0.02)
 import marshal
